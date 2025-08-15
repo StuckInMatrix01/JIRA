@@ -1,0 +1,6 @@
+Set up postgresql
+Set up python's FAST API
+Connect FAST API with DB
+Create ORM objects
+And build JIRA
+Simple as that
